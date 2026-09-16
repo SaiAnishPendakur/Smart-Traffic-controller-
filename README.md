@@ -367,9 +367,9 @@ This project is licensed under the **MIT License** - see LICENSE file for detail
 
 ## 📞 Contact & Support
 
-- **Author:** Your Name
-- **Email:** your.email@example.com
-- **GitHub:** [@your-username](https://github.com/your-username)
+- **Author:** SAI ANISH A PENDAKUR
+- **Email:** anishpendakur008@gmail.com
+- **GitHub:** [SaiAnishPendakur](https://github.com/SaiAnishPendakur)
 
 **Questions?** Open an issue on GitHub!
 
