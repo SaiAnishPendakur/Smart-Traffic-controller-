@@ -385,6 +385,28 @@ This project is licensed under the **MIT License** - see LICENSE file for detail
    - Change timing values
    - Add new features
    - Test different scenarios
+   - # Smart Traffic Light Controller
+
+[Description here]
+
+## Screenshots
+
+### Main Menu
+![Menu](images/screenshots/menu.png)
+
+### Running Simulation
+![Simulation](images/screenshots/simulation.png)
+
+## Architecture
+
+See [Architecture Documentation](docs/ARCHITECTURE.md)
+
+### System Design
+![Architecture](images/diagrams/architecture.png)
+
+## How It Works
+
+[Code explanation]
 
 3. **Learn by Building**
    - Extend with new features
